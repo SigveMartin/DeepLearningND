@@ -17,3 +17,7 @@ Project 3:
 In this project, you'll generate your own Simpsons TV scripts using RNNs. You'll be using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network you'll build will generate a new TV script for a scene at Moe's Tavern.
 
 	reinforcement: Reinforcement Learning: This lesson is a brief introduction to reinforcement learning. This branch of machine learning is about training an agent by giving it rewards for performing correct actions. We could build a whole course on reinforcement learning, but here we don't really have time to cover all the different methods. Instead, I'll be showing you one particular method called Q-learning.
+
+	Project 4: 
+	Language Translation
+	In this project, you’re going to take a peek into the realm of neural network machine translation. You’ll be training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
