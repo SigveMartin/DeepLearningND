@@ -23,4 +23,6 @@ In this project, you'll generate your own Simpsons TV scripts using RNNs. You'll
 	In this project, you’re going to take a peek into the realm of neural network machine translation. You’ll be training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
 
 4. Generative Adversarial Networks:
-	gan-mnist: You'll build the generator and discriminator networks, as well as set up the losses and optimizers which requires something new since we need to train the networks in parallel.
+	gan-mnist: Youell build the generator and discriminator networks, as well as set up the losses and optimizers which requires something new since we need to train the networks in parallel
+
+	Project 4: In this project, you'll use generative adversarial networks to generate new images of faces.
